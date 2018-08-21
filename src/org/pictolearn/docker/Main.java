@@ -1,3 +1,5 @@
+package org.pictolearn.docker;
+
 public class Main {
 
     public static void main(String[] args) {
